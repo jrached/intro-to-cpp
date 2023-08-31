@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570409717 source:c:\users\serinca construction\desktop\c++\program24\main.cpp
+	<iostream>
+	<fstream>
+
