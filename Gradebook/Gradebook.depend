@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572245901 source:c:\users\serinca construction\desktop\c++\gradebook\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
