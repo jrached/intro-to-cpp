@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572863149 source:c:\users\serinca construction\desktop\c++\theaterhw\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

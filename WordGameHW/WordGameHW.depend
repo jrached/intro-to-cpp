@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568781590 source:c:\users\serinca construction\desktop\c++\wordgamehw\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
