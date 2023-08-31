@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571225791 source:c:\users\serinca construction\desktop\c++\cointosshw\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
