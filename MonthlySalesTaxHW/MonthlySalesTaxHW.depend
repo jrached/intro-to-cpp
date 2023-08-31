@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568595281 source:c:\users\serinca construction\desktop\c++\monthlysalestaxhw\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

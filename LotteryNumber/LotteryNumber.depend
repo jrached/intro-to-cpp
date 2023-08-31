@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574663793 source:c:\users\serinca construction\desktop\c++\lotterynumber\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
